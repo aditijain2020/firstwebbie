@@ -1,0 +1,73 @@
+.mainPageStyles {
+    background-color: #a1d6ff;
+    width: 100vw;
+    height: 100vh;
+}
+
+.pageHeaderStyles {
+    background-image: linear-gradient(to right, pink, blue);
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainHeading {
+font-family: 'Dancing Script', cursive;
+font-weight: 700;
+font-size: 32px;
+color: #000;
+}
+
+.mainContentBody {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.navigationContainer {
+    width: 30%;
+    height: 100vh;
+    border-right: 1px solid blue;
+}
+
+.mainContainer {
+    width: 70%;
+    height: 100vh;
+}
+
+.navigationItem {
+    border: 1px solid blueviolet;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500;
+    font-size: 24px;
+    color: #343c3d;
+}
+
+.sonalMamiSection {
+    padding: 10px;
+    
+}
+
+.sonalMami_heading {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.sonalMami_body {
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 20px;
+}
+
+.sonalMami_image {
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+}
+/* font-family: 'Dancing Script', cursive; */
+
+/* font-family: 'Baloo Thambi 2', cursive; */
